@@ -1,7 +1,5 @@
 @ECHO OFF
 REM BFCPEOPTIONSTART
-REM Advanced BAT to EXE Converter www.BatToExeConverter.com
-REM BFCPEEXE=C:\Users\Administrator\Desktop\brb.exe
 REM BFCPEICON=
 REM BFCPEICONINDEX=-1
 REM BFCPEEMBEDDISPLAY=0
